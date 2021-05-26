@@ -1,4 +1,15 @@
-.column {
+.column1 {
   width: 300px;
   float: left;
+  background: green;
+}
+.column2 {
+  width: 300px;
+  float: left;
+  background: blue;
+}
+.column3 {
+  width: 300px;
+  float: left;
+  background: brown;
 }
